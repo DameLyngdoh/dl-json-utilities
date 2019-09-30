@@ -1,0 +1,31 @@
+{
+  "name": "dl-json-utilities",
+  "version": "1.0.0",
+  "description": "JSON utilites for comparing and manipulating JSON objects.",
+  "main": "dLJSONUtilities.js",
+  "homepage": "https://github.com/DameLyngdoh/dl-json-utilities",
+  "man": [],
+  "bugs": {
+    "url": "https://github.com/DameLyngdoh/dl-json-utilities/issues",
+    "email": "damelyngdoh@outlook.com"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json",
+    "compare",
+    "property",
+    "utility"
+  ],
+  "author": {
+    "name": "Dame Lyngdoh",
+    "email": "damelyngdoh@outlook.com",
+    "url": "https://github.com/DameLyngdoh"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DameLyngdoh/dl-json-utilities"
+  }
+}
